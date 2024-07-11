@@ -1,8 +1,5 @@
 ## Hi there, I'm Ankit Sahu 👋
 
-<!-- ### 📚 Projects & Guides 📚
-- Click **[HERE](https://github.com/yashk1/)** for my projects and guides -->
-
 ## Skill Set 💪
 
 **Programming Languages**
@@ -29,4 +26,4 @@
 
 ## Let's Connect 🤝
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yashk1/](https://www.linkedin.com/in/ankit-sahu-a9b220192/))
+<a href="https://www.linkedin.com/in/ankit-sahu-a9b220192/" target="_blank"><img title="LinkedIn" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
