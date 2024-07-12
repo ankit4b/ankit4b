@@ -1,4 +1,6 @@
-## Hi there, I'm Ankit Sahu 👋
+## Hi there, I'm Ankit 👋
+
+<img src="216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" height="300px" />
 
 ## Skill Set 💪
 
